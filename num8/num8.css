@@ -1,0 +1,98 @@
+.mainnum{
+    height: 1000px;
+    width: 1200px;
+    background: silver;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+.mnum1{
+    height:600px;
+    width: 200px;
+    background: #0110ff;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+
+}
+.mnum2{
+    height: 600px;
+    width: 200px;
+    background: #0110ff;
+    display: flex;
+
+}
+.mnum3{
+    height: 700px;
+    width: 200px;
+    background: #0110ff;
+    display: flex;
+
+}
+.n1{
+    height: 50px;
+    width: 200px;
+    background: #9f4201;
+}
+.num2-7{
+    display: flex;
+    flex-wrap: wrap;
+}
+.n2{
+    height: 550px;
+    width: 50px;
+    background: #65becc;
+}
+.n3{
+    height: 150px;
+    width: 150px;
+    background: #00869a;
+}
+.n4{
+    height: 50px;
+    width: 150px;
+    background: #113236;
+}
+.nnum5-6{
+    display: flex;
+}
+.n5{
+    height: 300px;
+    width: 100px;
+    background: #6c1d35;
+}
+.n6{
+     height: 300px;
+     width: 50px;
+     background: #810e94;
+ }
+.n7{
+    height: 50px;
+    width: 150px;
+    background: #726c07;
+}
+.num8-14{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.n8{
+    height: 50px;
+    width: 150px;
+    background: #726c07;
+    display: flex;
+    justify-self: end;
+}
+.n9{
+    height: 150px;
+    width: 50px;
+    background: #726c07;
+    display: flex;
+    justify-self: flex-end;
+
+}
+.n10{
+    height: 50px;
+    width: 150px;
+    background: #726c07;
+}
