@@ -139,7 +139,7 @@ body {
 
 .all {
     width: 800px;
-    height: 200px;
+    height: 300px;
     background: #9f4201;
     display: flex;
     flex-direction: column;
@@ -174,25 +174,25 @@ body {
 }
 .all1{
     width: 260px;
-    height: 200px;
+    height: 100px;
     background: #00869a;
     margin-right: 10px;
 }
 .all2{
     width: 260px;
-    height: 200px;
+    height: 100px;
     background: #00869a;
     margin-right: 10px;
 
 }
 .all3{
      width: 260px;
-     height: 200px;
+     height: 100px;
      background: #00869a;
  }
 .all4{
     width: 530px;
-    height: 200px;
+    height: 100px;
     background: #00869a;
     margin-right: 10px;
     margin-bottom: 10px;
@@ -200,20 +200,20 @@ body {
 }
 .all5{
     width: 260px;
-    height: 200px;
+    height: 100px;
     background: #00869a;
     margin-bottom: 10px;
     margin-top: 10px;
 }
 .all6{
     width: 260px;
-    height: 200px;
+    height: 100px;
     background: #00869a;
     margin-right: 10px;
 }
 .all7{
     width: 530px;
-    height: 200px;
+    height: 100px;
     background: #00869a;
 }
 .offers{
