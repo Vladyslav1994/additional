@@ -1,0 +1,90 @@
+.main1{
+    height: 550px;
+    width: 400px;
+    background: silver;
+    display: flex;
+    flex-wrap: wrap;
+}
+.header{
+    height: 50px;
+    width: 400px;
+    background: #65becc;
+    display: flex;
+    text-align: center;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+.hero{
+    height: 150px;
+    width: 150px;
+    background: rgba(199, 143, 201, 0.65);
+    display: flex;
+    text-align: center;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+.sidebar{
+    height: 200px;
+    width: 150px;
+    background: #687e52;
+    display: flex;
+    text-align: center;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+.maincontent{
+    height: 250px;
+    width: 250px;
+    background: #ef6e3f;
+    display: flex;
+    text-align: center;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+.extracontent{
+    height: 100px;
+    width: 250px;
+    background: #444446;
+    display: flex;
+    text-align: center;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+.relatedi{
+    height: 100px;
+    width: 300px;
+    background: #325032;
+    display: flex;
+    text-align: center;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+.relatedp{
+    height: 100px;
+    width: 100px;
+    background: #dc6d6d;
+    display: flex;
+    text-align: center;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+.footer{
+    height: 50px;
+    width: 400px;
+    background: #9f4201;
+    display: flex;
+    text-align: center;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+.main4{
+    display: flex;
+}
