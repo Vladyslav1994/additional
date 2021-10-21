@@ -94,6 +94,7 @@
     justify-self: end;
     border: 2px solid black;
     box-sizing: border-box;
+    flex-wrap: wrap;
 }
 .n9{
     height: 180px;
@@ -127,4 +128,22 @@
     width: 140px;
     background: #000000;
     margin: 15px 5px;
+}
+.n812{
+    height: 30px;
+    width: 60px;
+    background: #000000;
+    margin: 15px 5px;
+}
+.n813{
+    height: 30px;
+    width: 60px;
+    background: #000000;
+    margin: 10px 5px;
+}
+.n814{
+    height: 10px;
+    width: 50px;
+    background: #000000;
+    margin-left: 50px;
 }
