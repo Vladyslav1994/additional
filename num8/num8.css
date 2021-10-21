@@ -13,6 +13,18 @@
     display: flex;
     flex-wrap: wrap;
     box-sizing: border-box;
+}
+.n1-1{
+    width: 60px;
+    height: 10px;
+    background: #9da3a8;
+    display: flex;
+    justify-content: space-around;
+}
+.n1-2{
+    width: 60px;
+    height: 10px;
+    background: #9da3a8;
 
 }
 .mnum2{
@@ -74,25 +86,32 @@
 .num8-14{
     display: flex;
     flex-wrap: wrap;
-
+}
+.height50{
+    height: 50px;
+}
+.height100{
+    height: 100px;
+}
+.height130{
+    height: 130px;
+}
+.height170{
+    height: 170px;
 }
 .n8{
-    height: 50px;
     width: 150px;
     background: #726c07;
     display: flex;
     justify-self: end;
+    border: 2px solid black;
+    box-sizing: border-box;
 }
 .n9{
-    height: 150px;
-    width: 50px;
+    height: 180px;
+    width: 100px;
     background: #726c07;
     display: flex;
     justify-self: flex-end;
-
-}
-.n10{
-    height: 50px;
-    width: 150px;
-    background: #726c07;
+    border: 2px solid black;
 }
